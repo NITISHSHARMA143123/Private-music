@@ -175,9 +175,9 @@ class App(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("AdityaServer")
-                await self.one.join_chat("AdityaDiscus")
-                await self.one.join_chat("Sanki_World")
+                await self.five.join_chat("Vvenom_world")
+                await self.one.join_chat("Lily_x_bots")
+                await self.one.join_chat("lily_support_chat")
             except:
                 pass
             assistants.append(5)
