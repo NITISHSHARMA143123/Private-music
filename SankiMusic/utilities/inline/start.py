@@ -44,7 +44,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✮ sᴏᴜʀᴄᴇ ✮", url="https://t.me/venom_world_chatting_club"
+                text="✮ sᴏᴜʀᴄᴇ ✮", url="https://t.me/Vvenom_world"
             )
         ]
      ]
